@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.cyanogenmod.CMWallpapers;
+package com.paranoid.PAWallpapers;
 
 import android.app.Activity;
 import android.content.res.Resources;
@@ -40,7 +40,7 @@ import java.io.InputStream;
 import java.util.ArrayList;
 
 
-public class wallpaper extends Activity implements AdapterView.OnItemSelectedListener,
+public class Wallpaper extends Activity implements AdapterView.OnItemSelectedListener,
         OnClickListener {
 
     private Gallery mGallery;

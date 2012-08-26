@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.cyanogenmod.CMWallpapers;
+package com.paranoid.PAWallpapers;
 
 import android.app.Activity;
 import android.app.WallpaperManager;
