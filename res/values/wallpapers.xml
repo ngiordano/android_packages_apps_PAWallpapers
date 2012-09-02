@@ -17,6 +17,9 @@
 
 <resources>
     <string-array name="wallpapers" translatable="false">
+    <item>wallpaper_decalex_vibrantparanoid</item>
+    <item>wallpaper_j3r3myp_shineless</item>
+    <item>wallpaper_j3r3myp_metaless</item>
     <item>wallpaper_knokfirst_paranoid01</item>
     <item>wallpaper_knokfirst_paranoid02</item>
     <item>wallpaper_knokfirst_paranoid03</item>
@@ -32,6 +35,9 @@
     </string-array>
 
     <string-array name="info" translatable="false">
+    <item>Vibrant Paranoid :: Decalex</item>
+    <item>Shineless :: J3r3myp</item>
+    <item>Metaless :: J3r3myp</item>
     <item>Paranoid 01 :: Knokfirst</item>
     <item>Paranoid 02 :: Knokfirst</item>
     <item>Paranoid 03 :: Knokfirst</item>
